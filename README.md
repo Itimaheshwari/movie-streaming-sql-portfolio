@@ -1,5 +1,7 @@
 # movie-streaming-sql-portfolio
 SQL &amp; PostgreSQL project analyzing a movie streaming dataset to extract user behavior, top content, and engagement insights.
+
+
 **Project Overview::**
 This project demonstrates SQL and PostgreSQL skills by analyzing a **movie streaming platform dataset**. 
 The dataset consists of multiple tables tracking users, movies, subscriptions, watch history, and ratings. 
